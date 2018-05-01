@@ -1,9 +1,9 @@
 package my;
 
 public class incdecexample1 
-public static void main(String args[])
 {
-	int num1 = 1, num = 2 , num3 = 0, num4 = 1;
+public static void main(String args[]) {
+	int num1 = 1, num2 = 2 , num3 = 0, num4 = 1;
 	int rusult1 = num1++;
 	int rusult2 = num2--;
 	int rusult3 = ++num3;
